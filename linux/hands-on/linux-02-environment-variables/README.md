@@ -1,4 +1,4 @@
-exp# Hands-on Linux-02 : Linux Environment Variables
+# Hands-on Linux-02 : Linux Environment Variables
 
 Purpose of the this hands-on training is to teach the students how to use environment variables.
 
@@ -95,7 +95,7 @@ ls ca*    # see the cat command.
 ```bash
 cd
 mkdir test && cd test
-vim test.sh
+nano test.sh
 # copy and paste the code-echo "hello world"- in test.sh
 chmod +x test.sh
 ./test.sh
@@ -120,7 +120,7 @@ cd test
 export CLARUS=env.var
 WAY=shell.var
 cd test
-vim test1.sh
+nano test1.sh
 # copy and paste the code-echo "normally we should see env. variable $CLARUS but probably we can't see the shell variable $WAY "
 chmod +x test1.sh
 ./test1.sh

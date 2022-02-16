@@ -1,4 +1,4 @@
-var# Hands-on Linux-06 : Shell Scripting Basics
+# Hands-on Linux-06 : Shell Scripting Basics
 
 Purpose of the this hands-on training is to teach the students how to script in shell.
 
