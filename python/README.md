@@ -16,5 +16,5 @@ Python Workshop contains hands-on trainings and projects.
 
 - Use lower case letters to name the folders.
 
-- The name     of the folder should give detailed info about it's contents such as date/session, instructor and title:
+- The name of the folder should give detailed info about it's contents such as date/session, instructor and title:
 
