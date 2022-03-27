@@ -30,7 +30,7 @@ At the end of the this hands-on training, students will be able to;
 
 - Part 3 - Troubleshooting about credentials
 
-- Part 4 - Creating role and attaching to EC2
+- Part 4 - Creating role and attaching to EC2 . . .
 
 
 ## Part 1 - Creating IAM user and arrange user settings
